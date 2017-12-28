@@ -9,5 +9,5 @@ Customise theme for the site
 Bio and book photography  
 
 ## To do list:  
-Photos of Susan and book
-Website wireframe
+- [ ] Photos of Susan and book  
+- [ ] Website wireframe
