@@ -7,3 +7,7 @@ Susan is happy with her previous blogging service on WordPress, so we have decid
 ## services:
 Customise theme for the site  
 Bio and book photography  
+
+## To do list:  
+Photos of Susan and book
+Website wireframe
